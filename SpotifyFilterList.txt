@@ -1,0 +1,2 @@
+||akamaized.net/audio/$media,redirect-rule=noop-1s.mp4:10,from=open.spotify.com
+||scdn.co/audio/*$media,redirect=noop-1s.mp4:10,domain=open.spotify.com
